@@ -41,11 +41,8 @@ class ApiKey {
 }
 ```
 
-## todo
-
-- i18n support for multiple languages
-
 ## Acknowledgments
 
+- [Flutter Weather](https://github.com/LonelyCpp/flutter_weather)
 - [Weather Icon Pack](https://erikflowers.github.io/weather-icons/)
 - [App Mockup](https://app-mockup.com), [photopea](http://photopea.com) (for screenshots)
