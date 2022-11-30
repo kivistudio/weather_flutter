@@ -4,7 +4,6 @@ import 'package:flutter_weather/src/api/api_keys.dart';
 import 'package:flutter_weather/src/bloc/weather_bloc_observre.dart';
 import 'package:flutter_weather/src/screens/routes.dart';
 import 'package:flutter_weather/src/screens/weather_screen.dart';
-import 'package:bloc/bloc.dart';
 import 'package:flutter_weather/src/themes.dart';
 import 'package:flutter_weather/src/utils/constants.dart';
 import 'package:flutter_weather/src/utils/converters.dart';
